@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cheru.ico</file>
+        <file>cheru.png</file>
+    </qresource>
+</RCC>
